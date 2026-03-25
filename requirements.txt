@@ -1,0 +1,15 @@
+# Web Framework
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+
+# Database
+sqlalchemy>=2.0.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Memory Analysis
+volatility3>=2.5.0
+
+multipart==0.0.9
